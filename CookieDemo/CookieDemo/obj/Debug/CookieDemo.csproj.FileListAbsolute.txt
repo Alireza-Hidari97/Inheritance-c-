@@ -1,0 +1,7 @@
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\bin\Debug\CookieDemo.exe.config
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\bin\Debug\CookieDemo.exe
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\bin\Debug\CookieDemo.pdb
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\obj\Debug\CookieDemo.csprojAssemblyReference.cache
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\obj\Debug\CookieDemo.csproj.CoreCompileInputs.cache
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\obj\Debug\CookieDemo.exe
+C:\Users\aderson\source\repos\CookieDemo\CookieDemo\obj\Debug\CookieDemo.pdb

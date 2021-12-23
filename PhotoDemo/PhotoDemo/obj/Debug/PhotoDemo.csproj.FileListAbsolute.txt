@@ -1,0 +1,7 @@
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.exe.config
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.exe
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\bin\Debug\PhotoDemo.pdb
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.csprojAssemblyReference.cache
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.csproj.CoreCompileInputs.cache
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.exe
+C:\Users\aderson\source\repos\PhotoDemo\PhotoDemo\obj\Debug\PhotoDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\aderson\source\repos\LetterDemo\LetterDemo\bin\Debug\LetterDemo.exe.config
+C:\Users\aderson\source\repos\LetterDemo\LetterDemo\bin\Debug\LetterDemo.exe
+C:\Users\aderson\source\repos\LetterDemo\LetterDemo\bin\Debug\LetterDemo.pdb
+C:\Users\aderson\source\repos\LetterDemo\LetterDemo\obj\Debug\LetterDemo.csproj.CoreCompileInputs.cache
+C:\Users\aderson\source\repos\LetterDemo\LetterDemo\obj\Debug\LetterDemo.exe
+C:\Users\aderson\source\repos\LetterDemo\LetterDemo\obj\Debug\LetterDemo.pdb

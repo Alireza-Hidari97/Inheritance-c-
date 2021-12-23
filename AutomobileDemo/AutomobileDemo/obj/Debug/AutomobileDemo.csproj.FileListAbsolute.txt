@@ -1,0 +1,6 @@
+C:\Users\aderson\source\repos\AutomobileDemo\AutomobileDemo\bin\Debug\AutomobileDemo.exe.config
+C:\Users\aderson\source\repos\AutomobileDemo\AutomobileDemo\bin\Debug\AutomobileDemo.exe
+C:\Users\aderson\source\repos\AutomobileDemo\AutomobileDemo\bin\Debug\AutomobileDemo.pdb
+C:\Users\aderson\source\repos\AutomobileDemo\AutomobileDemo\obj\Debug\AutomobileDemo.csproj.CoreCompileInputs.cache
+C:\Users\aderson\source\repos\AutomobileDemo\AutomobileDemo\obj\Debug\AutomobileDemo.exe
+C:\Users\aderson\source\repos\AutomobileDemo\AutomobileDemo\obj\Debug\AutomobileDemo.pdb
